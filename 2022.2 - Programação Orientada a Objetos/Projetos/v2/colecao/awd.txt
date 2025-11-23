@@ -1,0 +1,26 @@
+CD{
+Artista::
+Linkin Park;
+Titulo::
+Living Things;
+Duracao::
+37;
+Faixas::
+"Lost in the Echo","In my Remains","Burn It Down","Lies Greed Misery","I'll Be Gone",;
+Lancamento::
+2012;
+Genero::
+Rock;
+}
+DVD{
+Artista::
+Linkin Park;
+Titulo::
+Live in Texas;
+Faixas::
+"Don't Say","Somewhere I Belong","Lying from You","Papercut","Points of Authority","Faint","From the Inside",;
+Lancamento::
+2003;
+Genero::
+Alternative;
+}

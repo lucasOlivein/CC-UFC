@@ -1,0 +1,5 @@
+Downcast:: Fazer uma superclasse se passar por uma subclasse sua, convertendo uma 
+classe em outra; 
+    -> Deve funcionar se a superclasse tiver todos os metodos e atributos da subclasse,
+    -> mas que implemente de forma diferente;
+Cast:: Converte um tipo de dados em outro;

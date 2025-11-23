@@ -1,0 +1,14 @@
+CD{
+Artista::
+test;
+Titulo::
+test;
+Duracao::
+0;
+Faixas::
+"test","testing","tested",;
+Lancamento::
+2000;
+Genero::
+Rock;
+}
