@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "testes",
+  "info": {
+    "singularName": "teste",
+    "pluralName": "testes",
+    "displayName": "estado",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "fotos": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

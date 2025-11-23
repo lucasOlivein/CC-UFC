@@ -1,0 +1,159 @@
+
+body {
+  margin: 0;
+  /* display: flex; */
+  /* place-items: center; */
+  min-width: 320px;
+  min-height: 100vh;
+  /* background-color: burlywood; */
+}
+
+
+button {
+  border-radius: 5px;
+  border: 1px;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+#app {
+  /* max-width: 1280px; */
+  margin: relative;
+  padding: 2rem;
+  /* text-align: center; */
+  background-color: #fff;
+}
+
+
+.c-item{
+  height: 260px;
+  width: 435px;
+  position: relative;
+  /* display: flex; */
+  border-radius: 5%;
+} 
+.c-img{
+   width: auto;
+   /*height: auto;
+   width: auto;
+  object-fit: fill;*/
+
+   position: auto;
+
+
+  /*top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);*/
+  margin: auto;
+  border-radius: 5%;
+
+}
+
+
+.c-h5{
+  padding: 6px;
+  background-color: #C9D9D9;
+  border-radius: 5%;
+}
+
+.col-4{
+  border-radius: 5%;
+  width: relative;
+  height: relative;
+  box-shadow: -10px 5px 5px #8a8989;
+}
+
+.container-fluid{
+  width: relative;
+  height: relative;
+  background-image: linear-gradient(to bottom, #F38016, #FBE204);
+  border-radius: 5%;
+  box-shadow: 10px 5px 5px #8a8989;
+  font-family: Arial, Helvetica, sans-serif;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.col-8{
+  width: relative;
+  height: relative;
+  border-radius: 5%;
+  box-shadow: 10px 5px 5px #8a8989; 
+}
+
+.a{
+  font: bold;
+  position: relative;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+#seta{
+  position: relative;
+  padding: 2px;
+  box-shadow: 2px -2px 0 1px #000 inset;
+  border: solid transparent;
+  border-width: 0 0 1px 1px;
+  transform: rotate(45deg);
+}
+
+#text{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: relative;
+  align-items: flex-start;
+}
+
+#info{
+  background-image: linear-gradient(to bottom, #F38016, #FBE204);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: relative;
+}
+
+#info2{
+  background-color: #F38016;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: relative;
+  align-items: flex-start;
+  
+}
+
+#userOpt{
+    background-image: linear-gradient(to bottom, #F38016, #FBE204);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: relative;
+}
+
+#textBox{
+  box-shadow: inset 0px 0px 5px 3px rgba(126, 126, 126, 0.6);
+}
+
+#adm{
+  width: relative;
+  height: relative;
+  border-radius: 5%;
+  font-size: relative;
+  font-family: 'Times New Roman', Times, serif;
+ /* box-shadow: 10px 5px 5px #8a8989; */
+  border-color: #000;
+  box-shadow: inset 0px 0px 5px 3px rgba(165, 164, 164, 0.6);
+}
+
+textarea{
+  box-shadow: inset 0px 0px 5px 3px rgba(126, 126, 126, 0.6);
+  border-radius: 5%;
+}
+
+#titulo{
+  box-shadow: inset 0px 0px 5px 3px rgba(126, 126, 126, 0.6);
+}
+
+
+
+/* .ads{
+  background-color: rgb(230, 133, 6);
+}
+ */

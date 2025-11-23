@@ -1,0 +1,62 @@
+{
+  "kind": "collectionType",
+  "collectionName": "anuncios",
+  "info": {
+    "singularName": "anuncio",
+    "pluralName": "anuncios",
+    "displayName": "anuncio",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tittle": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    },
+    "photos": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "user": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user",
+      "inversedBy": "anuncios"
+    },
+    "data": {
+      "type": "date",
+      "required": false
+    },
+    "estado": {
+      "type": "enumeration",
+      "enum": [
+        "Novo",
+        "Usado em estado novo",
+        "Usado em boas condições",
+        "Usado em condições razoáveis"
+      ],
+      "required": false
+    },
+    "categoria": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::categoria.categoria",
+      "inversedBy": "anuncios"
+    },
+    "preco": {
+      "type": "decimal",
+      "required": false
+    }
+  }
+}
