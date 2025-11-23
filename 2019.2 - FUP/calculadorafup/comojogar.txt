@@ -1,0 +1,11 @@
+GOAL é o valor que você deve atingir para passar de fase
+MOVES é quantas vezes você pode usar os botões para isso
+VALUE é o valor com o qual você começa a fase
+
+Os botões disponíveis são:
+[+] - somar
+[-] - subtrair
+[x] - multiplicar
+[/] - dividir
+[<-] - remover o último dígito
+[->] - inserir dígito no fim
