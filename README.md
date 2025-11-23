@@ -24,11 +24,11 @@ Repositório com registros de disciplinas do curso de Ciência da Computação d
 - Leitura e escrita em arquivos
 - Implementa busca
 
-### [Ambiente Virtual de Comunidades](./2022.2%20-%20Estrutura%20de%20Dados/Trabalhos/T2%20-%20Lista%20encadeada/) (Estr. Dados)
+### [Ambiente Virtual de Comunidades](./2022.2%20-%20Estrutura%20de%20Dados/Projetos/T2%20-%20Lista%20encadeada/) (Estr. Dados)
 - Lista de listas encadeadas
 - Alocação dinâmica
 
-### [Ordenação com múltiplos algoritmos](./2022.2%20-%20Estrutura%20de%20Dados/Trabalhos/T1%20-%20Ordenação/Part_1/) (Estr. Dados)
+### [Ordenação com múltiplos algoritmos](./2022.2%20-%20Estrutura%20de%20Dados/Projetos/T1%20-%20Ordenação/Part_1/) (Estr. Dados)
 - 5 algoritmos de ordenação:
     - BubbleSort, InsertionSort, SelectionSort, MergeSort e QuickSort
 - 4 implementações de cada algoritmo
