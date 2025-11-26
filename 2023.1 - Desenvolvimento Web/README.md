@@ -5,6 +5,8 @@
 
 **Professor:** Bruno Góis Mateus  
 **Nota final:** 7.0
+## Projeto Final
+- [Site de Anúncios](./web-project/)
 
 ## Conceitos Estudados
 - Introdução ao HTML, CSS e JavaScript
@@ -17,5 +19,3 @@
 - Introdução ao Strapi (backend)
 - Integração com banco de dados
 - Sessões e cookies
-## Projeto Final
-- [Site de Anúncios](./web-project/)
