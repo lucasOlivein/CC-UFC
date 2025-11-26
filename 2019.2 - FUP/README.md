@@ -5,6 +5,9 @@
 
 **Professor:**  Atílio Gomes Luiz   
 **Nota final:** 7
+## Projeto Final
+- [ Jogo da Calculadora](./calculadorafup/)
+
 ## Conceitos estudados
 - Tipos de dados primitivos (int, float, char)
 - Operadores aritméticos e lógicos
@@ -14,5 +17,3 @@
 - Funções e modularização
 - Manipulação básica de arquivos
 
-## Projeto Final
-- [ Jogo da Calculadora](./calculadorafup/)
