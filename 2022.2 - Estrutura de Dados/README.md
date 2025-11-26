@@ -5,6 +5,13 @@
 
 **Professor:** Roberto Cabral Rabêlo Filho  
 **Nota final:** 7.1
+## Projetos
+- ### Ordenação (2 partes)
+    - [Ordenação com Múltiplos Algoritmos](./Projetos/T1%20-%20Ordenação/Part_1/) (Parte 1)
+    - [Ordenação de Alunos por Nome e Matrícula](./Projetos/T1%20-%20Ordenação/Part_2/) (Parte 2)
+- ### Lista Encadeada
+    - [Ambiente Virtual de Comunidades](./Projetos/T2%20-%20Lista%20encadeada/)
+    
 ## Conceitos Estudados
 - Estruturas de dados
     - Vetores, listas, listas encadeadas, pilhas e filas
@@ -17,9 +24,3 @@
     - Tempo de execução e número de iterações
     - Melhor caso, pior caso e caso médio
 
-## Projetos
-- ### Ordenação
-    - [Ordenação com Múltiplos Algoritmos]() (Parte 1)
-    - [Ordenação de Alunos por Nome e Matrícula]() (Parte 2)
-- ### Lista Encadeada
-    - [Ambiente Virtual de Comunidades]()
