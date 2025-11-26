@@ -5,6 +5,11 @@
 
 **Professor:** Thiago Werlley Bandeira da Silva  
 **Nota final:** 9.3
+
+## Projeto
+#### Gerenciador de Mídias
+- [Versão 1](./Projetos/v1/) - Implementação inicial, sem uso de arquivos
+- [Versão 2](./Projetos/v2/) - Versão completa, com leitura/escrita em arquivos e melhorias gerais (ainda em refinamento)
 ## Conceitos Estudados
 - Paradigma da orientação a objetos
     - Encapsulamento, herança, polimorfismo, abstração
@@ -19,7 +24,3 @@
 - Manipulação de arquivos
 - Organização do código em múltiplos arquivos (.h e .cpp)
 
-## Projeto
-#### Gerenciador de Mídias
-- [Versão 1](./Projetos/v1/) - Implementação inicial, sem uso de arquivos
-- [Versão 2](./Projetos/v2/) - Versão completa, com leitura/escrita em arquivos e melhorias gerais (ainda em refinamento)
